@@ -6,18 +6,25 @@ This is a prototype for the Sheridan Courses mobile app for Sheridan Students. S
 3. [Version 3 - Current prototype](https://www.figma.com/file/900RhMPB8EsEb18KfgBOyp/SheridanCoursesApp3?node-id=0%3A1&t=1oVPTijF710J2buL-1)
 
 ## Features & Functionalities (implemented)
-1. The student ID card is integrated inside the student profile page.
-2. There are notifications in general in the notification page, but there is also the notification page for the specific course.
-3. Online video call and virtual classroom for online class
-4. Showing the student's schedule of the day in a widget or on the home page.
-5. Tutorial page or tab
-6. Student could do a test or quiz in the app. 
+1. Student ID card is integrated inside the student profile page.  -
+2. There are notifications in the bottom navigation for the general notification, but there is also a notification tab for each course in the app. -
+3. The course content tab has the option to have videos and slides of the materials. -
+4. Each course has a private chat where the teacher and classmates could communicate with each other. -
+5. The app allows the students to send and receive emails to any user of the platform.
+6. The app offers a quiz section where the students could do their quizzes.
+7. In the chat group, there is an option to start a video call to all members of the group chat
+8. The student could submit an assignment that is stored on their devices or online storage.
+9. The main page shows the schedule like the courses and the course details of the day to the student.
+
 
 ## Features & Functionalities (desired)
 1. A guide for first time user of the app.
+2. Group chat icon more clear with labels.
+3. Message to inform user that they are sucessfully finish the task they are doing.
 
 ## Demo
-Watch the video demo [here](https://youtu.be/ujZKBQ21M30)
+Watch the video demo of second prototype [here](https://youtu.be/ujZKBQ21M30)
+Watch the video demo of third prototype [here]()
 
 ## Prototype
 <img width="700" alt="Screen Shot 2023-02-19 at 4 30 00 PM" src="https://user-images.githubusercontent.com/94085963/219976605-27af92b7-c9c4-4ed8-b837-51e3e5ac15f2.png">
