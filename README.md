@@ -6,10 +6,10 @@ This is a prototype for the Sheridan Courses mobile app for Sheridan Students. S
 3. [Version 3 - Current prototype](https://www.figma.com/file/900RhMPB8EsEb18KfgBOyp/SheridanCoursesApp3?node-id=0%3A1&t=1oVPTijF710J2buL-1)
 
 ## Features & Functionalities (implemented)
-1. Student ID card is integrated inside the student profile page.  -
-2. There are notifications in the bottom navigation for the general notification, but there is also a notification tab for each course in the app. -
-3. The course content tab has the option to have videos and slides of the materials. -
-4. Each course has a private chat where the teacher and classmates could communicate with each other. -
+1. Student ID card is integrated inside the student profile page.  
+2. There are notifications in the bottom navigation for the general notification, but there is also a notification tab for each course in the app. 
+3. The course content tab has the option to have videos and slides of the materials. 
+4. Each course has a private chat where the teacher and classmates could communicate with each other. 
 5. The app allows the students to send and receive emails to any user of the platform.
 6. The app offers a quiz section where the students could do their quizzes.
 7. In the chat group, there is an option to start a video call to all members of the group chat
@@ -25,7 +25,7 @@ This is a prototype for the Sheridan Courses mobile app for Sheridan Students. S
 ## Demo
 Watch the video demo of second prototype [here](https://youtu.be/ujZKBQ21M30)
 
-Watch the video demo of third prototype [here]()
+Watch the video demo of third prototype [here](https://youtu.be/DCB8JM99fnc)
 
 ## Prototype
 <img width="1011" alt="Screen Shot 2023-03-19 at 2 09 26 PM" src="https://user-images.githubusercontent.com/94085963/226198375-0c9c6d67-df53-42cf-9ae7-d8cfeb11ead7.png">
