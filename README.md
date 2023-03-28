@@ -3,7 +3,8 @@ This is a prototype for the Sheridan Courses mobile app for Sheridan Students. S
 ## Application Version
 1. [Version 1 - Initial prototype](https://www.figma.com/file/dUeLDikCCkQTlCyqNsYmpJ/SheridanCoursesApp?node-id=0%3A1&t=gLBCRjmlCpvXCMmE-1)
 2. [Version 2 - Second prototype](https://www.figma.com/file/dEtgeLv3qFLCvScDFG8lCw/SheridanCourseApp2?node-id=0%3A1&t=ov5dWKiSnec3ySut-1)
-3. [Version 3 - Current prototype](https://www.figma.com/file/900RhMPB8EsEb18KfgBOyp/SheridanCoursesApp3?node-id=0%3A1&t=1oVPTijF710J2buL-1)
+3. [Version 3 - Third prototype](https://www.figma.com/file/900RhMPB8EsEb18KfgBOyp/SheridanCoursesApp3?node-id=0%3A1&t=1oVPTijF710J2buL-1)
+4. [Revised Version - Current prototype](https://www.figma.com/file/X57yS9BUs7TjrRFJhUTpsB/SheridanCoursesAppRevised?node-id=0%3A1&t=KRmpeNk84SLvxKZU-1)
 
 ## Features & Functionalities (implemented)
 1. Student ID card is integrated inside the student profile page.  
@@ -26,6 +27,16 @@ This is a prototype for the Sheridan Courses mobile app for Sheridan Students. S
 Watch the video demo of second prototype [here](https://youtu.be/ujZKBQ21M30)
 
 Watch the video demo of third prototype [here](https://youtu.be/DCB8JM99fnc)
+
+## Revised Prototype
+<img width="1292" alt="Screen Shot 2023-03-28 at 5 03 20 PM" src="https://user-images.githubusercontent.com/94085963/228367039-be99edc5-f474-4882-9c1b-711226f6c709.png">
+<img width="1269" alt="Screen Shot 2023-03-28 at 5 00 43 PM" src="https://user-images.githubusercontent.com/94085963/228367053-f0cc0ffe-495b-4158-bb33-36bee4f088ae.png">
+<img width="1274" alt="Screen Shot 2023-03-28 at 4 57 19 PM" src="https://user-images.githubusercontent.com/94085963/228367318-91014d83-2010-4232-bd84-bf05d2ab1f57.png">
+<img width="1297" alt="Screen Shot 2023-03-28 at 4 54 20 PM" src="https://user-images.githubusercontent.com/94085963/228367343-3c6404d8-a166-4349-831b-d2a834de0984.png">
+
+
+
+
 
 ## Prototype
 <img width="1011" alt="Screen Shot 2023-03-19 at 2 09 26 PM" src="https://user-images.githubusercontent.com/94085963/226198375-0c9c6d67-df53-42cf-9ae7-d8cfeb11ead7.png">
